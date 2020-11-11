@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
 
 ---
 
-**FullCode (MainActivity)[https://github.com/gzeinnumer/RecyclerViewDiffutils/blob/master/app/src/main/java/com/gzeinnumer/recyclerviewdiffutils/MainActivity.java] & (MyAdapter)[https://github.com/gzeinnumer/RecyclerViewDiffutils/blob/master/app/src/main/java/com/gzeinnumer/recyclerviewdiffutils/MyAdapter.java] & (MyDiffUtilsCallBack)[https://github.com/gzeinnumer/RecyclerViewDiffutils/blob/master/app/src/main/java/com/gzeinnumer/recyclerviewdiffutils/MyDiffUtilsCallBack.java]**
+**FullCode [MainActivity](https://github.com/gzeinnumer/RecyclerViewDiffutils/blob/master/app/src/main/java/com/gzeinnumer/recyclerviewdiffutils/MainActivity.java) & [MyAdapter](https://github.com/gzeinnumer/RecyclerViewDiffutils/blob/master/app/src/main/java/com/gzeinnumer/recyclerviewdiffutils/MyAdapter.java) & [MyDiffUtilsCallBack](https://github.com/gzeinnumer/RecyclerViewDiffutils/blob/master/app/src/main/java/com/gzeinnumer/recyclerviewdiffutils/MyDiffUtilsCallBack.java)**
 
 ---
 
